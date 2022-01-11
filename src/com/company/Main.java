@@ -9,6 +9,8 @@ public class Main {
         System.out.println("hello java");
         System.out.println("hello github");
         System.out.println("hello copy");
+        System.out.println(((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5)));
+
     }
     }
 
